@@ -63,7 +63,7 @@ Object {
        this anywhere you need to refer to distances on the screen.
      */
     function dp(number) {
-        return Math.round(number*((2.8*25.4)/160)*1.8);
+        return Math.round(number*((2.8*25.4)/160)*1.9);
     }
 
     function gu(number) {
