@@ -16,8 +16,8 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 import QtQuick 2.0
-import Material 0.1
-import "ListItems" as ListItem
+import "." 0.1
+import "ListItems" 0.1 as ListItem
 
 /*!
    \qmltype Sidebar

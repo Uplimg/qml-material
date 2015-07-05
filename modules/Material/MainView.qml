@@ -17,7 +17,7 @@
  */
 import QtQuick 2.0
 import QtQuick.Window 2.2
-import Material 0.1
+import "." 0.1
 
 /*!
    \qmltype MainView

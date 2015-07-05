@@ -18,7 +18,7 @@
  */
 import QtQuick 2.3
 import QtQuick.Window 2.0
-import Material 0.1
+import "." 0.1
 import QtGraphicalEffects 1.0
 
 /*!

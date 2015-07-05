@@ -20,8 +20,8 @@
 
 import QtQuick 2.0
 import QtQuick.Layouts 1.1
-import Material 0.1
-import Material.Extras 0.1
+import "." 0.1
+import "qrc:/qml-extras/modules/Material/Extras" 0.1
 
 /*!
    \qmltype Dialog

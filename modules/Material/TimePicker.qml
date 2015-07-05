@@ -18,8 +18,8 @@
  */
 
 import QtQuick 2.4
-import Material 0.1
-import Material.Extras 0.1
+import "." 0.1
+import "qrc:/qml-extras/modules/Material/Extras" 0.1
 import QtQuick.Controls 1.2 as QuickControls
 import QtQuick.Controls.Styles 1.2
 

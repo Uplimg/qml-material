@@ -19,7 +19,7 @@ import QtQuick 2.2
 import QtQuick.Window 2.0
 import QtQuick.Controls 1.3 as Controls
 import QtQuick.Controls.Styles 1.3 as Styles
-import Material 0.1
+import "." 0.1
 
 /*!
    \qmltype ProgressCircle

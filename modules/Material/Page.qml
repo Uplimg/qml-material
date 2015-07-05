@@ -18,7 +18,7 @@
 
 import QtQuick 2.0
 import QtQuick.Controls 1.2 as Controls
-import Material 0.1
+import "qrc:/qml-material/modules/Material" 0.1
 
 /*!
    \qmltype Page

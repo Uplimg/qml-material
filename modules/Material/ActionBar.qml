@@ -18,9 +18,9 @@
  */
 import QtQuick 2.0
 import QtQuick.Layouts 1.1
-import Material 0.1
-import Material.Extras 0.1
-import Material.ListItems 0.1 as ListItem
+import "." 0.1
+import "qrc:/qml-extras/modules/Material/Extras" 0.1
+import "ListItems/" 0.1 as ListItem
 
 /*!
    \qmltype ActionBar

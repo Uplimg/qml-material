@@ -18,7 +18,7 @@
 import QtQuick 2.0
 import QtQuick.Controls 1.2 as Controls
 import QtQuick.Controls.Styles 1.2 as ControlStyles
-import Material 0.1
+import "." 0.1
 import QtGraphicalEffects 1.0
 
 /*!

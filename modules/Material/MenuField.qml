@@ -18,9 +18,8 @@
 import QtQuick 2.2
 import QtQuick.Layouts 1.1
 
-import Material 0.1
-import Material.ListItems 0.1
-
+import "." 0.1
+import "ListItems" 0.1
 /*!
    \qmltype MenuField
    \inqmlmodule Material 0.1
